@@ -68,23 +68,5 @@ npm install
 npm start
 ```
 
-## Usage
-- Sign up or log in to your account.
-- Select a user from the available chat list.
-- Start real-time messaging with instant updates.
-- Change themes from the settings panel.
-- Update your profile image from the profile page.
 
-## Future Enhancements
-- Functionality to update profile.
-- Editing and deleting messages.
-- Being able to upload documents and videos as currently only images can be sent.
-- A search bar to search for users.
-- Using Amazon S3 instead of Cloudinary to support sending large files.
-
-## Contributions
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
